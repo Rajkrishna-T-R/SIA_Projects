@@ -1,5 +1,5 @@
 # SIA_Projects
-Silicon Architecture Projects (In the order i done)
+Silicon Architecture Projects 
 
 Digital Domain
 --------------
